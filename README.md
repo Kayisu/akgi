@@ -1,3 +1,3 @@
 # Ak Akçe Kara Gün İçindir
 
-Bu bir 'Çevrimiçi Alışveriş Karşılaştırma ve Değerlendirme Platformu' simülasyonudur.
+This is a simulation of an 'Online Shopping Comparison and Evaluation Platform'.
