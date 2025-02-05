@@ -1,2 +1,3 @@
-# akgi
- My first full-stack (?) web project
+# Ak Akçe Kara Gün İçindir
+
+Bu bir 'Çevrimiçi Alışveriş Karşılaştırma ve Değerlendirme Platformu' simülasyonudur.
